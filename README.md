@@ -422,12 +422,7 @@ ep.4a
 <img width="960" height="1280" alt="4a 2nd pic" src="https://github.com/user-attachments/assets/04dd8b07-4b98-489c-8076-e498285c25d5" />
 
  
- ep.4b
 
-<img width="497" height="707" alt="4b circuit" src="https://github.com/user-attachments/assets/bb009c2c-f203-4d58-b697-df1c1d015344" />
-
-
- <img width="522" height="660" alt="Screenshot 2026-08-24 161452" src="https://github.com/user-attachments/assets/a4c44825-acad-4e7d-b3bb-23c6782690e9" />
 
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
