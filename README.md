@@ -415,7 +415,6 @@ ep.4a
 
 
  ## Circuit board :
-ep.4a
 
 
 <img width="730" height="636" alt="4a" src="https://github.com/user-attachments/assets/61ebdc94-bd9f-41a5-9926-f957971ca26c" />
