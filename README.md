@@ -715,8 +715,9 @@ ep.4a
  ## Circuit board :
 
 
-<img width="730" height="636" alt="4a" src="https://github.com/user-attachments/assets/61ebdc94-bd9f-41a5-9926-f957971ca26c" />
-<img width="960" height="1280" alt="4a 2nd pic" src="https://github.com/user-attachments/assets/04dd8b07-4b98-489c-8076-e498285c25d5" />
+<img width="1086" height="1448" alt="not detected" src="https://github.com/user-attachments/assets/2f7525bb-2f85-4e8c-a2d6-de53ada8dbae" />
+
+<img width="1142" height="1378" alt="detected" src="https://github.com/user-attachments/assets/89e73bb5-f2ab-482c-b9b7-2285867a3656" />
 
  
 
