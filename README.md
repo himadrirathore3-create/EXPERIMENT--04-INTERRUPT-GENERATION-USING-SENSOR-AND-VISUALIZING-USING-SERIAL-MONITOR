@@ -404,7 +404,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 ```
 ep.4b
-'''
+```
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -701,7 +701,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-'''
+```
 
 ## Output screen shots of serial port utility   :
 ep.4a
